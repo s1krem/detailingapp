@@ -1,8 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+> **Prerequisite**: Node.js 18 or later. If you use [nvm](https://github.com/nvm-sh/nvm), the included `.nvmrc` file specifies the recommended version.
+
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies and then run the development server:
+
+```bash
+npm install
+```
+
+After the install finishes, start the server:
 
 ```bash
 npm run dev
